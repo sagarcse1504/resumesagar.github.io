@@ -1,0 +1,36 @@
+
+
+
+/*Extra small Start*/
+@media (max-width:767px) {
+  
+    
+}
+/*Extra small End*/
+
+
+
+/*Small device Start*/
+@media (min-width:768px) and (max-width:991px) {
+    
+    
+}
+/*Small device End*/
+
+
+
+/*Medium device Start*/
+@media (min-width:992px) and (max-width:1199px) {
+ 
+    
+}
+/*Medium device End*/
+
+
+
+
+/*Large device Start*/
+@media (min-width:1200px) {
+    
+}
+/*Large device End*/
